@@ -17,5 +17,4 @@ You can click the Preview link to take a look at your changes.
 More about my work:
 
 [CV_Vuk_Amizic.pdf](https://github.com/Amizic/Amizic/files/8634581/CV_Vuk_Amizic.pdf)
-![confirmation1](https://user-images.githubusercontent.com/104253978/167006019-409e6d17-3f08-4e37-b9f2-e149f3bb7828.jpg)
-![confirmation2](https://user-images.githubusercontent.com/104253978/167006021-1f8564c6-11a9-4c81-86bc-102d34cc9d15.jpg)
+
