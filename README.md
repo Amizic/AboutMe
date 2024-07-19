@@ -1,13 +1,7 @@
 @Vuk Amizic
 
-IT Engineering - Technical Faculty "Mihajlo Pupin", University in Novi Sad.
-I have strong software and web development skills. During the years, I have been practicing both programming and 3D modelling.
-
-  Programming/Scripting languages:
-    C, C++, C#, Java, Python, HTML, CSS, Javascript, SQL
-  DBMS:
-    MySQL
-
+Master IT Engineer
+C/C++
 
 <!---
 Amizic/Amizic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
