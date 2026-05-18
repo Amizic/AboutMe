@@ -1,7 +1,10 @@
 @Vuk Amizic
 
-Master IT Engineer
-C/C++
+# Master's degree in Information Technologies
+## My fav languages
+`C/C++`
+`php`
+`sql`
 
 <!---
 Amizic/Amizic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
