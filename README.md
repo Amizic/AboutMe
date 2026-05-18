@@ -4,7 +4,7 @@
 Master of Information Technologies. Now doing PhD in it.
 
 ## My fav languages
-- Basically anything that is low level. \n For web php tho.
+- Basically anything that is low level. -For web php tho. <br/>
 `C/C++`
 `assembly`
 `php`
