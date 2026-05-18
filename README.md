@@ -3,8 +3,9 @@
 # Master's degree in Information Technologies
 ## My fav languages
 `C/C++`
+`assembly`
 `php`
-`sql`
+`sql/mysql`
 
 <!---
 Amizic/Amizic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
