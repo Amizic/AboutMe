@@ -1,7 +1,8 @@
 # @Vuk Amizic
 
 ## Master's degree in Information Technologies
-Master of Information Technologies. Now doing PhD in it.
+Master of Information Technologies. 
+Now doing PhD in it.
 
 ## My fav languages
 - Basically anything that is low level.
